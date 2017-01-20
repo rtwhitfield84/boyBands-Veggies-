@@ -1,5 +1,3 @@
-# Boy bands and vegetables
-
 # NSS Boy Bands and Veggies exercise
 
 ## Instructions
